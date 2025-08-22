@@ -11,11 +11,7 @@ Este projeto foi desenvolvido para a disciplina de Física, sob orientação do 
 > - Recebe os valores de distância e tempo inseridos pelo usuário;
 > <br>
 > - Calcula a velocidade média usando a fórmula:
-
-
 > Vm = Δt / ΔS
-
-
 > - Exibe os resultados de forma clara, em metros por segundo (m/s) e quilômetros por hora (km/h);
 > <br>
 > - Mostra informações adicionais, como distância percorrida em km, tempo em minutos e horas;
