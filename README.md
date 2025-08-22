@@ -13,10 +13,11 @@ Este projeto foi desenvolvido para a disciplina de Física, sob orientação do 
 - 🖊️ Recebe os valores de **distância** e **tempo** inseridos pelo usuário;  
 - ⚡ Calcula a **velocidade média** usando a fórmula:  
 
-\[
-V_m = \frac{\Delta S}{\Delta t}
-\]
-
+**Vm** = ΔS / Δt  
+onde:  
+- Vm = velocidade média  
+- ΔS = distância percorrida  
+- Δt = tempo gasto
 - 📊 Exibe os resultados de forma clara em **metros por segundo (m/s)** e **quilômetros por hora (km/h)**;  
 - 🛣️ Mostra informações adicionais, como **distância percorrida em km**, **tempo em minutos** e **horas**;  
 - ⚠️ Valida entradas inválidas, alertando quando o usuário digita **valores negativos ou zero**.
