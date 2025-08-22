@@ -19,7 +19,8 @@ onde:
 - ΔS = distância percorrida  
 - Δt = tempo gasto
 
-<br>
+---
+
 - 📊 Exibe os resultados de forma clara em **metros por segundo (m/s)** e **quilômetros por hora (km/h)**;  
 - 🛣️ Mostra informações adicionais, como **distância percorrida em km**, **tempo em minutos** e **horas**;  
 - ⚠️ Valida entradas inválidas, alertando quando o usuário digita **valores negativos ou zero**.
