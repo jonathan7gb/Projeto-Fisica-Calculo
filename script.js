@@ -11,8 +11,8 @@ const valorNegativo = document.getElementById('valorNegativo')
 
 function calculo(distancia, tempo){
     let resultado = distancia / tempo
-    ms.innerText = resultado.toFixed(0) 
-    kmh.innerText = (resultado * 3.6).toFixed(0)
+    ms.innerText = resultado.toFixed(2) 
+    kmh.innerText = (resultado * 3.6).toFixed(1)
     kmPercorridos.innerText = (Number(distanciaInput.value) / 1000).toFixed(1)
     minPercorridos.innerText = Number(tempoInput.value).toFixed(0)
     horasPercorridas.innerText = Number(tempoInput.value / 60).toFixed(0)
